@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.calc{
+    margin: 8px auto 0;
+    text-align: center;
+    font-size: 0;
+}
+.result{
+border: 1.9px solid black;
+height: 60px;
+width: 282px;
+font-weight: bold;
+text-align: right;
+font-size: 18px;
+letter-spacing: 1px;
+padding-right: 3px;
+
+}
+.btn{
+    height: 54px;
+    width: 70px;
+    margin: 1px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 1px solid rgb(255, 1, 119);
+}
+.right-btn{
+background-color: rgb(18, 18, 167);
+color: white;
+}
+.right-down-btn{
+    background-color: orange;
+    color: white;
+}
+.btn:hover{
+    background-color: rgb(255, 207, 215);
+}
