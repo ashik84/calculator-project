@@ -2,6 +2,9 @@
     margin: 0;
     padding: 0;
 }
+.cal{
+    margin-top: 30px;
+}
 .calc{
     margin: 8px auto 0;
     text-align: center;
